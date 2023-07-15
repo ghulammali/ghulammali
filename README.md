@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+For my complete profile and portfolio details, checkout my personal website <a href="http://ghulamali.dev">here</a>.
+
+
+![GM's github stats](https://github-readme-stats.vercel.app/api?username=ghulammali&show_icons=true&count_private=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulammali&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ghulammali/ghulammali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
